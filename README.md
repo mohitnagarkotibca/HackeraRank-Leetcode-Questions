@@ -1,0 +1,3 @@
+# HackeraRank-Leetcode-Questions
+This is a repo where i put sollution of all hacker rank challenges i solved.
+Still learning....
